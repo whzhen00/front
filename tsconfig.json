@@ -1,9 +1,0 @@
-{
-  "compilerOptions": {
-    //项目中@路径引入报错解决方法
-    "baseUrl": ".",
-    "paths": {
-      "@/*": ["src/*"]
-    }
-  }
-}
